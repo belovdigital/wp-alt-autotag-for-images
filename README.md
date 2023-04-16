@@ -2,7 +2,7 @@
 
 Are you tired of manually adding ALT attributes to your images to improve your website's SEO? Look no further! Our WP Image Altifier plugin is here to save you time and effort while boosting your website's search engine rankings.
 
-Why is WP Image Altifier the perfect solution for your WordPress site?
+## Why is WP Image Altifier the perfect solution for your WordPress site?
 
 #1. Automatic ALT Attributes: With our plugin, you no longer need to worry about adding ALT attributes to every single image manually. WP Image Altifier automatically sets the ALT attribute based on the post, page, or custom post title if the ALT attribute is empty or missing.
 
