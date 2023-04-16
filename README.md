@@ -1,4 +1,4 @@
-# Introducing "Auto Image Alt-ifier" - The Ultimate WordPress Plugin for SEO-Friendly Image ALT Attributes
+# Introducing "WP Image Altifier" - The Ultimate WordPress Plugin for SEO-Friendly Image ALT Attributes. Auto Image Alt-ifier is all you need to avoid SEO warnings on your website.
 
 Are you tired of manually adding ALT attributes to your images to improve your website's SEO? Look no further! Our Auto Image Alt-ifier plugin is here to save you time and effort while boosting your website's search engine rankings.
 
