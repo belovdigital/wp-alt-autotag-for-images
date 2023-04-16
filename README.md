@@ -14,4 +14,8 @@ Why is WP Image Altifier the perfect solution for your WordPress site?
 
 #5. Easy to Install and Use: Installing and setting up WP Image Altifier is a breeze. Just install the plugin, activate it, and let it work its magic. No complicated settings or configurations required.
 
-Unlock the true potential of your WordPress site with WP Image Altifier, the ultimate solution for adding SEO-friendly, accessible, and meaningful ALT attributes to your images automatically. Say goodbye to manual image tagging and hello to a more efficient and optimized website! Try WP Image Altifiertoday and experience the difference for yourself.
+Unlock the true potential of your WordPress site with WP Image Altifier, the ultimate solution for adding SEO-friendly, accessible, and meaningful ALT attributes to your images automatically. Say goodbye to manual image tagging and hello to a more efficient and optimized website! Try WP Image Altifier today and experience the difference for yourself.
+
+_____________________
+
+Created by [Belov Digital Agency](https://belovdigital.agency/)
