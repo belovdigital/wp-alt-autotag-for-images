@@ -19,3 +19,5 @@ Unlock the true potential of your WordPress site with WP Image Altifier, the ult
 _____________________
 
 Created by [Belov Digital Agency](https://belovdigital.agency/)
+
+Read more on pur [Plugins website](https://plugins.belov.digital/).
